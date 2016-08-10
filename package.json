@@ -22,7 +22,7 @@
     "react": ">=0.14.5"
   },
   "dependencies": {
-    "react-native-controllers": "^2.0.0"
+    "react-native-controllers": "https://github.com/weinshel/react-native-controllers/tarball/ba51ad2267e0c40fd5fcbb760a553b5f94a9a9fa"
   },
   "optionalDependencies": {
     "react-redux": "*"
